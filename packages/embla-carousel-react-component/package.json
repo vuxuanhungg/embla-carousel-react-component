@@ -40,7 +40,7 @@
     "tsconfig": "*",
     "typescript": "^4.9.3",
     "vite": "^4.0.4",
-    "vite-plugin-dts": "^2.0.2"
+    "vite-plugin-dts": "^2.3.0"
   },
   "peerDependencies": {
     "react": "^16.8.0. || ^17.0.1 || ^18.0.0"
