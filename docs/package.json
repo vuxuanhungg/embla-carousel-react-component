@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@heroicons/react": "^2.0.14",
+    "@heroicons/react": "^2.0.18",
     "embla-carousel-autoplay": "^7.0.9",
     "embla-carousel-class-names": "^7.0.9",
     "embla-carousel-react-component": "*",
